@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+h2{
+    margin: 1.25rem 0;
+}
+
+th{
+    padding: .3125rem;
+}
+td{
+    padding: .3125rem 1.25rem;
+    background-color:rgb(237, 241, 241); ;
+}
+
+thead{
+    background-color: rgb(230, 233, 233);
+}
+
+img{
+    margin: .625rem;
+}
